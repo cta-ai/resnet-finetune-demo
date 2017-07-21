@@ -1,7 +1,7 @@
 # resnet-finetune-demo
 
 <a href="url">
-<img align="right" height="250" src="https://lh4.googleusercontent.com/j8uIyHQKU8ktm8REITH3B0c8eLvQFps9_zv8S3SAvDhz1wftiQANufKx6Et0gekqUUyiQkbX=w3076-h1670">
+<img align="right" height="250" src="https://drive.google.com/uc?export=download&id=0B7mi_caywPhZOHFuQ3ZiQ2xuRTg">
 </a>
 
 A simple experiment with finetuning Resnet-152 in Keras for classifying indoor places images from [MIT Indoor-67](http://web.mit.edu/torralba/www/indoor.html) dataset. This method achieves 73% accuracy on the test set.
